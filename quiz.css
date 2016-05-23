@@ -47,7 +47,7 @@ h6{
 }
 
 .card .title {
-  border: 1px solid lightgray;
+  border: 1px dotted lightgray;
   /*padding: 5px 10px;*/
   margin: 0;
   text-align: center;
